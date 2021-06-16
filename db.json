@@ -1,0 +1,72 @@
+{
+  "events": [],
+  "faqs": [],
+  "library": [
+    {
+      "date": "2017",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Ata 1",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/1_ata_sessao.pdf"
+    },
+    {
+      "date": "2017",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Ata 2",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/2_ata_sessao.pdf"
+    },
+    {
+      "date": "2017",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Ata 3",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/3_ata_sessao.pdf"
+    },
+    {
+      "date": "2017",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Ata 4",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/4_ata_sessao.pdf"
+    },
+    {
+      "date": "2018",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Gestão de pessoas",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/coletanea-de-artigos_miolo.pdf"
+    },
+    {
+      "date": "2018",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Saúde mental no trabalho",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/livro-saude-mental-no-trabalho-2013-prt18.pdf"
+    },
+    {
+      "date": "2018",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Organização do trabalho e adoecimento",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/livro2.pdf"
+    },
+    {
+      "date": "2020",
+      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
+      "title": "Política de enfermagem do trabalho",
+      "author": "FSST GO",
+      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/pericia_criminal.pdf"
+    }
+  ],
+  "notifications": [],
+  "user": {
+    "name": "Ramon Henrique Ornelas",
+    "mail": "ramon@ammora.email",
+    "notificationsRead": [
+      "1",
+      "2",
+      "3"
+    ]
+  }
+}
